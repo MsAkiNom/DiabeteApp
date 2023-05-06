@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DiaBeatIt</string>
+    <string name="an_adult_should_consume_500_grams_nof_vegetables_and_fruits_everyday">An adult should consume 500 grams\nof vegetables and fruits everyday</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EVERY_API_KEY">AIzaSyBR4ghPCQXsHhMdmaJn1Ln1yTVW4BnRnu8</string>
+    <string name="dia_beat_it">Dia Beat it!</string>
+    <string name="daily_mission">Daily Mission</string>
+    <string name="jewel_robbery">Jewel robbery case\nA very precious brooch has been stolen! As a detective, your help is needed to find it. The location of the jewelry store is marked on the map. Be ready to resolve an exciting robbery mystery</string>
+    <string name="clue1">Natalia: I saw a suspicious man running toward the end of this road and then turning left.\n\n</string>
+    <string name="clue2">Bryant: I will tell you if you answer this correctly!\n\n</string>
+    <string name="clue2_qa">How much vegetables and fruits should you consume daily?</string>
+    <string name="_50_grams">50 grams</string>
+    <string name="_500_grams">500 grams</string>
+    <string name="you_did_a_great_job">You did a great job!</string>
+    <string name="correct">Correct</string>
+    <string name="you_nfound_out_3_clues_nwalked_451_steps">You:\nfound Out 3 Clues\nWalked 451 steps</string>
+</resources>
